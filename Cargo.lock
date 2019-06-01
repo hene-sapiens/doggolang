@@ -718,7 +718,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "wunder10"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "lalrpop 0.17.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "lalrpop-util 0.17.0 (registry+https://github.com/rust-lang/crates.io-index)",
